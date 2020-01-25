@@ -2,6 +2,9 @@
   "name": "mern",
   "version": "1.0.0",
   "description": "Learn the MERN stack",
+  "engines": {
+    "node": "13.6.0"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
